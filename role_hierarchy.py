@@ -182,7 +182,7 @@ def main():
             add_sub_role(root)
         elif int(operator) == 2:
             root.display()
-			print(" ")
+            print(" ")
         elif int(operator) == 3:
             delete_role(root)
         elif int(operator) == 4:
